@@ -1,5 +1,7 @@
 # Getting Started with NamasteWorld App
 
+![image](https://user-images.githubusercontent.com/73293735/133925588-5ca5535a-0b7d-4a55-ad44-01ab529212eb.png)
+
 ## What is NamasteWorld
 NamasteWorld is an online chat application made using ReactJs and socket.io
 
@@ -21,6 +23,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/73293735/133925622-f0204a24-07d7-4204-8fa6-5e3043eb9cf6.png)
+
 
 ## Future plans?
 We are working towards finishing up the functionalities and based on it's popularity launch it in cloud since we can get more space to accomaodate more users and better reliability.
