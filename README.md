@@ -15,7 +15,7 @@ This made us work harder to build a mini chat app.
 `git clone https://github.com/TheNeerajaAnand/NamasteWorld.git` 
 
 Open the file using an editor and run the code `npm install @ant-design/icons axios react-chat-engine`
-Make sure you have Nodejs v14.0 or higher installed in your system 
+Make sure you have Nodejs v14.0 or higher installed in your system along with an environment for developing react
 
  `npm start`
 
